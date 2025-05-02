@@ -73,7 +73,7 @@ class NumberTenScreen extends StatelessWidget {
                   ),
                 ),
                 child: const Text(
-                  'Rendi Ramdani',
+                  'Aliska',
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,
